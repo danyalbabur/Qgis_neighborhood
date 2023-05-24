@@ -1,2 +1,2 @@
 # qgiz_neighborhood
-qgis neighborhood(akdeniz)
+I made a qgis project which makes a shapefile for akdeniz neighborhood in yüreğir/Adana/Turkey
